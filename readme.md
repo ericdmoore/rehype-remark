@@ -12,6 +12,8 @@
 
 > `rehype-remark` bridge for deno
 
+use `https://denopkg.com/ericdmoore/rehype-remark@main/mod.ts`
+
 ## License
 
 [MIT][license] © [Titus Wormer][author]
