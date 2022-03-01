@@ -10,5 +10,3 @@ export {defaultHandlers, all, one} from './node_modules/hast-util-to-mdast/index
 import rhrm from './lib/index.js'
 export const rehypeRemark = rhrm
 export default rhrm
-
-console.log(rhrm)
